@@ -1,7 +1,8 @@
-import Greeting from "./Greeting";
+import Counter from "./Counter";
+// import Greeting from "./Greeting";
 
 function App() {
-  return <Greeting name="Walid" />;
+  return <Counter />;
 }
 
 export default App;
